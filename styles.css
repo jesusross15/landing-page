@@ -1,3 +1,9 @@
+.top{
+    background-color: beige;
+}
+
+
+
 .container {
     display: flex;
     justify-content: center;
@@ -5,10 +11,30 @@
     height: 100px;
   }
   
-  .box {
+  .box1 {
     width: 100px;
     height: 100px;
     background-color: black;
     margin: 10px;
   }
-  
+
+  .box2 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+  }
+
+  .box3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+  }
+
+  .box4 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+  }
