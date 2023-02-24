@@ -1,3 +1,4 @@
+/* Style for every single div on the page */
 body {
     background-color: #FFFFFF;
     padding: 0;
@@ -11,6 +12,19 @@ body {
     flex-direction: column;
 }
 
+/* Styling the navbar */
+.navbar {
+    display: flex;
+    color: #FFFFFF;
+    background-color: #1F2937;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+
+.header-logo {
+    display: flex;
+}
 
 
 .container {
