@@ -92,7 +92,9 @@ h1 {
 
 
 
-
+.boxes {
+    align-items: center;
+}
 
 
 .container {
