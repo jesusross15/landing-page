@@ -151,10 +151,12 @@ h1 {
 /* Sign up Section */
 .sign-up {
     background-color: #3882F6 ;
-    margin: 50px 200px;
+    margin: 100px 225px;
     padding: 10px 80px;
+    
     display: flex;
     align-items: center;
+    
     border-radius: 5px;
     border-color: none;
 }
@@ -178,4 +180,14 @@ h1 {
     font-family: 'Roboto', arial;
     padding: 0;
     margin: 30px 0px 0px 50px;
+}
+
+.button button {
+    color: #fff;
+    font-family: 'Roboto', arial;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: #3882F6;
+    padding: 5px 25px;
+    font-size: 15px;
 }
