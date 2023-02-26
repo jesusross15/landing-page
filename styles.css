@@ -58,6 +58,18 @@ body {
     margin-right: 50px;
 }
 
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin: 0;
+    font-family: 'Roboto', arial;
+}
+
+.title p {
+    font-family: 'Roboto', arial;
+    color: rgb(180, 179, 179);
+}
 
 
 
