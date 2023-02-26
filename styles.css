@@ -94,12 +94,16 @@ h1 {
 
 .boxes {
     align-items: center;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.boxes h2 {
+    font-size: 36px;
 }
 
 .container {
     display: flex;
-    /* border: 1px solid gold; */
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -107,7 +111,7 @@ h1 {
 .container img {
     width: 175px;
     height: 175px;
-    border: 4px solid #3981f6;
+    border: 5px solid #3981f6;
     border-radius: 15px;
     margin: 5px 50px 0px 20px;
 
@@ -130,7 +134,7 @@ h1 {
 .quote p {
     font-size: 36px;
     text-align: left;
-    color: #727274;
+    color: #646464;
     font-style: italic;
     font-family: 'Roboto', arial;
     margin: 0px 300px 0px 300px;
@@ -142,4 +146,15 @@ h1 {
     font-family: 'Roboto', arial;
     text-align: right;
     margin: 0px 350px;
+}
+
+/* Sign up Section */
+.sign-up {
+    background-color: #3882F6 ;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
 }
