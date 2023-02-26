@@ -26,26 +26,6 @@ body {
     margin-right: auto;
 }
 
-/* Hero styling */
-.top{
-    display: flex;
-    color: #FFFFFF;
-    background-color: #1F2937;
-    align-items: center;
-    justify-content: center;
-    padding: 90px;
-}
-
-
-
-
-
-
-
-
-
-
-
 .header-link {
     display: flex;
     margin-left: auto;
@@ -58,6 +38,31 @@ body {
     padding-right: 10px;
     font-family: 'Roboto', arial;
 }
+
+
+/* Hero styling */
+.top{
+    display: flex;
+    color: #FFFFFF;
+    background-color: #1F2937;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+}
+
+.title{
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+}
+
+
+
+
+
+
 
 
 .container {
